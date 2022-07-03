@@ -7,7 +7,6 @@ public class TestInterface {
         a.fly();
         Honest h = new Angel();
         h.helpOthers();
-
     }
 }
 
